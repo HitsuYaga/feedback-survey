@@ -58,5 +58,5 @@ typings/
 .env
 
 # user
-keys.js
+dev.js
 
